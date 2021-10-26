@@ -14,7 +14,7 @@ Points of investigation:
 -Individual spend within app
 
 Questions answered by queries:
-1. What percentage of the games players showed retention by continuing to play the game more than 30 days after they day they joined?
+1. What percentage of the game's players showed retention by continuing to play the game more than 30 days after they day they joined?
 2. What is the fractional retention throughout the year and does this vary at specific times of the year?
 3. How does retention vary by region?
 4. What are the most significant age groupings of the players of this game?
