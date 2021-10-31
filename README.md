@@ -27,22 +27,20 @@ By investigating the fractional retention for each of the days of the year, we c
 
 ### 3. How does retention vary by region?
 *(Appendix 4 in queries)*
-
-![Retention Rate by Region](https://user-images.githubusercontent.com/90063554/139563596-98834d6e-a810-4447-a7aa-9d03ca4113a6.png)
+>![Retention Rate by Region](https://user-images.githubusercontent.com/90063554/139563596-98834d6e-a810-4447-a7aa-9d03ca4113a6.png)
 
 ### 4. What are the most significant age groupings of the players of this game?
 By dividing the age groupings of the players into 4-year (inclusive) segments, we found that the players between the ages of 16-23 represent the largest of players at 81% of the entire player base. *(Appendix 5 in queries)*
-![Age Groupings by Count of Players](https://user-images.githubusercontent.com/90063554/139592147-a8dc70f4-4366-4bc3-8295-e25392f4ff6e.png)
+>![Age Groupings by Count of Players](https://user-images.githubusercontent.com/90063554/139592147-a8dc70f4-4366-4bc3-8295-e25392f4ff6e.png)
 
 
 ### 5. What regions are the players based in and how many players are in each of these regions?
 By segmenting the player base by geographical region, we can see that the largest portion of the user base is in North America, while Asia has the lesser of the 6 regions. *(Appendix 6 in queries)*
-![Count of Players by Region](https://user-images.githubusercontent.com/90063554/139592466-052e169c-ba04-4ec0-8f99-013336cd500d.png)
+>![Count of Players by Region](https://user-images.githubusercontent.com/90063554/139592466-052e169c-ba04-4ec0-8f99-013336cd500d.png)
 
 ### 6. What is the total spend within the app by the players in each of the regions?
 By segmenting the player base by geographical region and investigating the spending within the app in those regions, we can see that North America has the highest spending levels with revenues approximately $400,000 higher than in Asia. *(Appendix 7 in queries)*
-
-![Users Total Spend by Region](https://user-images.githubusercontent.com/90063554/139592734-ec5a2ba4-e798-4a3f-a992-d228fc532872.png)
+>![Users Total Spend by Region](https://user-images.githubusercontent.com/90063554/139592734-ec5a2ba4-e798-4a3f-a992-d228fc532872.png)
  
 ### 7. What is the most profitable age segmentation playing this game?
 *(Appendix 8 in queries)*
