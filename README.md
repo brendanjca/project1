@@ -27,6 +27,7 @@ By investigating the fractional retention for each of the days of the year, we c
 
 ### 3. How does retention vary by region?
 *(Appendix 4 in queries)*
+
 ![Retention Rate by Region](https://user-images.githubusercontent.com/90063554/139563596-98834d6e-a810-4447-a7aa-9d03ca4113a6.png)
 
 ### 4. What are the most significant age groupings of the players of this game?
