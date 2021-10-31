@@ -41,6 +41,7 @@ By segmenting the player base by geographical region, we can see that the larges
 
 ### 6. What is the total spend within the app by the players in each of the regions?
 By segmenting the player base by geographical region and investigating the spending within the app in those regions, we can see that North America has the highest spending levels with revenues approximately $400,000 higher than in Asia. *(Appendix 7 in queries)*
+
 ![Users Total Spend by Region](https://user-images.githubusercontent.com/90063554/139592734-ec5a2ba4-e798-4a3f-a992-d228fc532872.png)
  
 ### 7. What is the most profitable age segmentation playing this game?
