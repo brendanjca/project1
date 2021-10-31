@@ -23,7 +23,7 @@ Of the 40,452 players who joined the game over the span of the year, 27,687 of t
 
 ### 2. What is the fractional retention throughout the year and does this vary at specific times of the year?
 By investigating the fractional retention for each of the days of the year, we can see a *very slight* downward trend toward the end of the year. In general, 
-![GitHub Logo](/assets/Retention Rates Over the Year.png)
+![GitHub Logo](/Retention Rates Over the Year.png)
 4. How does retention vary by region?
 5. What are the most significant age groupings of the players of this game?
 6. What regions are the players based in and how many players are in each of these regions?
