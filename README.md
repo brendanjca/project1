@@ -1,6 +1,6 @@
 # project1 README
 
-# SQL Project by Ryan Blackadar and Brendon Anderson
+# SQL Project by Ryan Blackadar and Brendan Anderson
 ## Data Analytics Bootcamp, Juno College of Technology
 October 2021
 
