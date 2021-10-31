@@ -23,7 +23,7 @@ Of the 40,452 players who joined the game over the span of the year, 27,687 of t
 
 ### 2. What is the fractional retention throughout the year and does this vary at specific times of the year?
 By investigating the fractional retention for each of the days of the year, we can see an *very slight* downward trend toward the end of the year. In general, there is no seasonality to be observed by retention rates. They range from a low of 56% to a high of 80% and they avergae 68% overall. *(Appendix 1 in queries)*
-![Retention Rates Over the Year](https://user-images.githubusercontent.com/90063554/139563305-e1b9a5bd-0e7e-4c7a-8129-4005d51535e9.png)
+>![Retention Rates Over the Year](https://user-images.githubusercontent.com/90063554/139563305-e1b9a5bd-0e7e-4c7a-8129-4005d51535e9.png)
 
 ### 3. How does retention vary by region?
 *(Appendix 4 in queries)*
